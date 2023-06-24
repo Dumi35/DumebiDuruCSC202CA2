@@ -1,0 +1,17 @@
+version: '3'
+networks:
+  testnetwork:
+    external: true
+services:
+  database:
+    container_name: dumebi-duru-postgres-csc202-ca
+    image: postgres:latest
+    ports:
+      - "5433:5432"
+    volumes:
+      - C:/Users/dumid/data/postgres/csc202:/data/postgres
+    env_file:
+      - csc202ca.env
+    networks:
+      - testnetwork
+

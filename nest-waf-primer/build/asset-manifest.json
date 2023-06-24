@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0813f3b1.css",
+    "main.js": "/static/js/main.5f1304c4.js",
+    "static/js/787.6d8f2f06.chunk.js": "/static/js/787.6d8f2f06.chunk.js",
+    "static/media/GilroyLight.otf": "/static/media/GilroyLight.5ac188463a0bf78b3351.otf",
+    "static/media/LilyScriptOne-Regular.ttf": "/static/media/LilyScriptOne-Regular.0cc6fdfbc5921e8c747b.ttf",
+    "static/media/tooth2.jpg": "/static/media/tooth2.147e2cc55bdf17f79505.jpg",
+    "index.html": "/index.html",
+    "main.0813f3b1.css.map": "/static/css/main.0813f3b1.css.map",
+    "main.5f1304c4.js.map": "/static/js/main.5f1304c4.js.map",
+    "787.6d8f2f06.chunk.js.map": "/static/js/787.6d8f2f06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0813f3b1.css",
+    "static/js/main.5f1304c4.js"
+  ]
+}
